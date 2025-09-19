@@ -1,0 +1,5 @@
+{
+  "name": "editing_wo_rld_ App",
+  "description": "A web application that simulates an Android app interface. It features a login/signup screen and, upon successful authentication, displays a target website within a web view.",
+  "requestFramePermissions": []
+}
